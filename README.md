@@ -169,3 +169,4 @@ Il report Power BI non è pubblicato online, ma il file `.pbix` è disponibile n
 ![Page 3](images/page3.png)
 ![Page 4](images/page4.png)
 ![Page 5](images/page5.png)
+![Page 6](images/page6.png)
